@@ -2,7 +2,7 @@
 
 The Bounds Dashboard Project - MSc Health Data Science Placement 2025
 
-**Project overview**
+**Project overview** \n
 This repository contains my work for the MSc Health Data Science professional placement at The Bounds Counselling and Research Centre, University of Aberdeen (June–August 2025).
 The project focuses on developing a Centralised Operational Dashboard in Power BI to support:
 - Client intake and allocation workflows
@@ -19,7 +19,7 @@ The dashboard uses mock data (based on the structure of intake forms and appoint
 - Client-Counsellor Matching Dashboard: Supports allocation decisions by matching client needs with counsellor skills, experience, and availability.
 - Booking Heatmap: Visualises room and time-slot utilisation from calendar data.
 
-**Data confidentiality**
+**Data confidentiality** \n
 No real client data is included in this repository.
 All datasets are mock data, designed to mirror the structure and variables of real data (e.g., intake form responses, waiting list formats, booking calendars).
 
@@ -34,7 +34,7 @@ All datasets are mock data, designed to mirror the structure and variables of re
 - Separate folders for data, scripts, and dashboards.
 - Iterative versions of dashboards (tagged releases: v1.0, v2.0, etc.).
 
-**Acknowledgements**
-Placement host: The Bounds, Counselling and Research Centre
-MSc Health Data Science, University of Aberdeen
+**Acknowledgements** \n
+Placement host: The Bounds, Counselling and Research Centre \n
+MSc Health Data Science, University of Aberdeen \n
 Mock data sources inspired by PsyToolkit, open-access Kaggle datasets, and statistical simulation methods.
