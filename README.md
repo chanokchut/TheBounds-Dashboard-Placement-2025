@@ -1,6 +1,6 @@
 # TheBounds-Dashboard-Placement-2025
 
-Bounds Dashboard Project - MSc Health Data Science Placement 2025
+The Bounds Dashboard Project - MSc Health Data Science Placement 2025
 
 **Project overview**
 This repository contains my work for the MSc Health Data Science professional placement at The Bounds Counselling and Research Centre, University of Aberdeen (June–August 2025).
@@ -9,22 +9,6 @@ The project focuses on developing a Centralised Operational Dashboard in Power B
 - Counsellor matching (based on risk, preferences, availability)
 - Monitoring of waiting lists, room usage, and service demand trends
 The dashboard uses mock data (based on the structure of intake forms and appointment records) to simulate real-world scenarios, due to confidentiality restrictions.
-
-Bounds-Dashboard-Placement-2025/
-├── README.md          # Project introduction and guide
-├── data/              # Mock datasets (CSV format)
-│   ├── mock_clients.csv
-│   ├── mock_counsellors.csv
-│   └── mock_calendar.csv
-├── dashboards/        # Power BI files and screenshots
-│   ├── services_dashboard.pbix
-│   ├── client_matching_dashboard.pbix
-│   └── screenshots/
-├── docs/              # Documentation and workflow notes
-│   ├── project_plan.md
-│   ├── workflow_diagram.png
-│   └── data_dictionary.md
-└── LICENSE            # Licensing
 
 **Methods**
 - Data Simulation: Created mock datasets (normal distributions for CORE-10, PHQ-9, GAD-7; random assignment of client preferences and counsellor types).
