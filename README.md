@@ -3,7 +3,7 @@
 The Bounds Dashboard Project - MSc Health Data Science Placement 2025
   
 **Project overview**  
-This repository contains my work for the MSc Health Data Science professional placement at The Bounds Counselling and Research Centre, University of Aberdeen (June–August 2025).
+This repository contains my work for the MSc Health Data Science professional placement at The Bounds Counselling and Research Centre, University of Aberdeen (June-August 2025).
 The project focuses on developing a Centralised Operational Dashboard in Power BI to support:
 - Client intake and allocation workflows
 - Counsellor matching (based on risk, preferences, availability)
@@ -15,9 +15,9 @@ The dashboard uses mock data (based on the structure of intake forms and appoint
 - Dashboard Development: Built dashboards in Power BI with interactive filters, counsellor allocation logic, and heatmaps for room usage.
   
 **Outputs**
-- Services Dashboard: Overview of client demand, waiting lists, and service categories (F2F, Online, CYP).
-- Client-Counsellor Matching Dashboard: Supports allocation decisions by matching client needs with counsellor skills, experience, and availability.
-- Booking Heatmap: Visualises room and time-slot utilisation from calendar data.
+- Client Preference: Displays client demand, waiting lists, and service categories (F2F, Online, CYP) to support allocation decisions by aligning client needs with counsellor skills, experience, and availability.
+- Counsellor Information: Summarises counsellor capacity, experience level, service preferences (F2F, Online, CYP), and availability, enabling administrators to allocate clients effectively while balancing workload and placement hours.
+- Services Booking: Heatmap of room and time-slot utilisation from calendar data, helping the admin team quickly identify peak periods and optimise scheduling decisions.
   
 **Data confidentiality**  
 No real client data is included in this repository.
@@ -25,13 +25,12 @@ All datasets are mock data, designed to mirror the structure and variables of re
   
 **How to use**
 - Clone/download this repository.
-- Open .pbix files in Power BI Desktop.
-- Load mock data from /data folder to replicate dashboards.
+- Load .xlxs and .pbix files from /Data&Dashboard folder to replicate dashboards.
   
 **Version control**
-- This repository is developed with version control best practices:
-- Regular commits with meaningful messages.
-- Separate folders for data, scripts, and dashboards.
+- This repository is developed with version control practices:
+- Commits with meaningful messages.
+- Separate folders for Data&Dashboard and Document.
 - Iterative versions of dashboards (tagged releases: v1.0, v2.0, etc.).
   
 **Acknowledgements**  
