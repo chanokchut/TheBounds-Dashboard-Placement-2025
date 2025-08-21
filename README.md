@@ -25,7 +25,7 @@ All datasets are mock data, designed to mirror the structure and variables of re
   
 **How to use**
 - Clone/download this repository.
-- Load .xlxs and .pbix files from /Data&Dashboard folder to replicate dashboards.
+- Load .xlsx and .pbix files from /Data&Dashboard folder to replicate dashboards.
   
 **Version control**
 - This repository is developed with version control practices:
